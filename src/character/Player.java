@@ -1,6 +1,6 @@
 package character;
 
-import interfaces.IRace;
+import races.IRace;
 
 public class Player  {
 

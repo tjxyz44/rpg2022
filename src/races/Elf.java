@@ -1,7 +1,6 @@
 package races;
 
 import character.CharacterStats;
-import interfaces.IRace;
 
 public class Elf implements IRace {
 

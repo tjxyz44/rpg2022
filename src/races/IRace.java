@@ -1,4 +1,4 @@
-package interfaces;
+package races;
 
 public interface IRace {
 
