@@ -1,6 +1,5 @@
 package races;
 
-import interfaces.IRace;
 import character.CharacterStats;
 
 public class Dwarf implements IRace {
